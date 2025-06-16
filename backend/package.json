@@ -9,7 +9,8 @@
     "nodemailer": "^7.0.3"
   },
   "scripts": {
-  "seed": "node seed.js"
+  "seed": "node seed.js",
+  "start":"node server.js"
 }
 
 }
